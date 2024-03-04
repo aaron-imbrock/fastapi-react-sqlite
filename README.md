@@ -17,7 +17,7 @@ pip install -r backend/requirements.txt
 
 # React
 
-cd frontend/backend
+cd frontend/finance-app
 npm i
 ```
 
