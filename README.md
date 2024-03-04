@@ -1,7 +1,9 @@
-# Demo connecting REACT and a FastAPI backend
+# REACT and a FastAPI backend
 
 Here I've built a Finance application made up of a REACT form and styled with Bootstrap.
 The frontend is connected to a FastAPI backend that also uses SQLITE.
+
+![Screenshot](./screenshot.png)
 
 ## Setup
 
