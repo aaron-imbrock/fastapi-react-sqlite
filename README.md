@@ -40,7 +40,6 @@ Terminal B:
 
 ```linux
 # REACT
-
 cd frontend/finance-app
 npm start
 ```
