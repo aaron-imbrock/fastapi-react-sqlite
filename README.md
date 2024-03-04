@@ -29,7 +29,7 @@ Terminal A:
 
 ```linux
 # Python
-
+source .venv/bin/activate
 cd backend/backend
 uvicorn main:app --reload
 ```
